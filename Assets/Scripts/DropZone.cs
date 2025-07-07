@@ -19,6 +19,8 @@ public class DropZone : MonoBehaviour, IDropHandler
         {
             // Correct drop
             draggable.correctlyDropped = true;
+            
+            FindAnyObjectByType<DropZoneManager>()?.RegisterCorrectDrop();
         }
         else
         {

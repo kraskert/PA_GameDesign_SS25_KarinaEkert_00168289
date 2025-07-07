@@ -53,7 +53,7 @@ else
         else
         {
             // Reached the end — load next scene
-            SceneManager.LoadScene("Level1");
+            SceneManager.LoadScene("Level_1");
         }
     }
 }

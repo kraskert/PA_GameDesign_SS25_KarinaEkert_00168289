@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: cc4a54fbf75738640b234829b3040dc4
+guid: ac5b76a87e6b1904db257cef245cb808
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6610139049752988567
-    second: GameDesign-Page_11_0
+      213: -976407264882372117
+    second: FakeOrange_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: GameDesign-Page_11_0
+      name: FakeOrange_0
       rect:
         serializedVersion: 2
-        x: 32
-        y: 509
-        width: 1019
-        height: 1097
+        x: 220
+        y: 942
+        width: 74
+        height: 114
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 964f8876e811444a0800000000000000
-      internalID: -6610139049752988567
+      spriteID: be1539c04ca1372f0800000000000000
+      internalID: -976407264882372117
       vertices: []
       indices: 
       edges: []

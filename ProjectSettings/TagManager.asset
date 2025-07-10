@@ -5,6 +5,11 @@ TagManager:
   serializedVersion: 3
   tags:
   - CorrectPart
+  - GoodCell
+  - Virus
+  - CellCollider
+  - BloodCell
+  - Macrophage
   layers:
   - Default
   - TransparentFX

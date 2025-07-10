@@ -155,11 +155,11 @@ MonoBehaviour:
   - {fileID: 348490022472457736, guid: 9bd2bba1d41d2ea4393bfa3fc23aa0e1, type: 3}
   - {fileID: 4392477832784107193, guid: 9e0ff78862c19e2468056b893ba1208e, type: 3}
   texts:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 5800203209040755886, guid: 342c08aaa5b06374caa51829564a4144, type: 3}
+  - {fileID: 1971247547540466666, guid: ef8c43263eab02d4e8dad3f1a70c22e9, type: 3}
+  - {fileID: 4459652078902800774, guid: 4c2560788f2e0d44fb314f1964a2fc74, type: 3}
+  - {fileID: -7436048437210348504, guid: 565aa0d73965ffa49a1620ca740a4f1c, type: 3}
+  - {fileID: -8269837326163126270, guid: d78f3013d78867843b56340e425a7c6f, type: 3}
   displayImage: {fileID: 1968529744}
   textImage: {fileID: 138671348}
 --- !u!4 &23923487
